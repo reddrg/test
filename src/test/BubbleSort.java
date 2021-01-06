@@ -1,5 +1,9 @@
 package test;
-
+/**
+ * 
+ * @author dooykang
+ *
+ */
 public class BubbleSort {
 
 	private static final int[] ARR = {9, 6, 1, 3, 5, 2, 8, 7, 4};
