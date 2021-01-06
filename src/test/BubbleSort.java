@@ -8,6 +8,8 @@ public class BubbleSort {
 
 	private static final int[] ARR = {9, 6, 1, 3, 5, 2, 8, 7, 4};
 	
+	// Test
+	
 	public static int[] bubbleSort(int[] arr) {
 		for(int i = 1; i < arr.length; i++) {
 			for(int j = 0; j < arr.length - i; j++) {
